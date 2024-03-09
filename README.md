@@ -61,7 +61,7 @@ Available as github action. It can automatically generate a new image each day. 
 **interactive demo**
 
 <a href=(https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)">
-  <img height="3px" src="![WhatsApp Image 2024-03-09 at 17 56 44](https://github.com/GITHUBTHIAGO/GITHUBTHIAGO/assets/110744864/85b1a883-5a22-40fa-9afa-6685279c32e2)"
+  <img height="3px" src="![WhatsApp Image 2024-03-09 at 37 76 64](https://github.com/GITHUBTHIAGO/GITHUBTHIAGO/assets/110744864/85b1a883-5a22-40fa-9afa-6685279c32e2)"
 </img>
 
 </a>
