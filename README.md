@@ -60,11 +60,13 @@ Available as github action. It can automatically generate a new image each day. 
 
 **interactive demo**
 
-<a href="https://github.com/GITHUBTHIAGO/GITHUBTHIAGO">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+<a href=(https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)">
+  <img height="3px" src="![WhatsApp Image 2024-03-09 at 17 56 44](https://github.com/GITHUBTHIAGO/GITHUBTHIAGO/assets/110744864/85b1a883-5a22-40fa-9afa-6685279c32e2)"
+</img>
+
 </a>
 
-[platane.github.io/snk](https://platane.github.io/snk)
+[platane.github.io/GITHUBTHIAGO](https://platane.github.io/GITHUBTHIAGO
 
 **local**
 
