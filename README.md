@@ -74,7 +74,7 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 
 **interactive demo**
 
-<a href="https://platane.github.io/snk">
+<a href="https://github.com/GITHUBTHIAGO/GITHUBTHIAGO">
   <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
 
